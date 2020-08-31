@@ -9,4 +9,6 @@ public class testgit {
         System.out.println("hhhhhhhh");
         System.out.println("hhhhhhhh");
     }
+    public void aa(){
+        System.out.println("aaaaaaaaaa"}
 }
