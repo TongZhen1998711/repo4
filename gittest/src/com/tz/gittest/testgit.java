@@ -8,8 +8,10 @@ public class testgit {
         System.out.println("hhhhhhhh");
         System.out.println("hhhhhhhh");
         System.out.println("hhhhhhhh");
+        //哈哈哈哈
     }
     public void aa(){
         System.out.println("aaaaaaaaaa");
+        int i=0;
     }
 }
