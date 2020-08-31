@@ -13,5 +13,6 @@ public class testgit {
     public void aa(){
         System.out.println("aaaaaaaaaa");
         int i=0;
+        int i2=0;
     }
 }
